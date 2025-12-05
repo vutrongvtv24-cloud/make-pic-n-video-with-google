@@ -1,0 +1,5 @@
+{
+  "name": "Make Pic/Video with Google",
+  "description": "A high-performance batch image generation tool powered by Google Gemini models. Generate multiple variations simultaneously with a clean, dark-mode interface.",
+  "requestFramePermissions": []
+}
